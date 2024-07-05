@@ -1,4 +1,4 @@
-# Stock_Tracker_App_InDev
+# Stock_Tracker_App_InDev/Visual Augment Stock Tracking Tool (VASTT) 
 
 This application is a concept program intended to visualize a user's portfolio, show similar assets using various vectorized metrics, and abstract the code underneath a user-friendly interface. 
 
