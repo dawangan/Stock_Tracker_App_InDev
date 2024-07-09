@@ -10,7 +10,7 @@ Upon running the pyqt5_App.py, you may encounter an API request from Robinhood i
 After clearing this checkpoint, you may run pyqt5_App.py as is!
 
 # Functionality Guide
-![image]([345260479-143f5088-9c5b-4db4-9779-56ecead6d698.png](https://github.com/dawangan/Stock_Tracker_App_InDev/blob/main/imagefolder/345260479-143f5088-9c5b-4db4-9779-56ecead6d698.png])
+![image](https://github.com/dawangan/Stock_Tracker_App_InDev/blob/main/imagefolder/345260479-143f5088-9c5b-4db4-9779-56ecead6d698.png)
 
 This is what the GUI looks like for me when I run "pyqt5_App.py".
 
